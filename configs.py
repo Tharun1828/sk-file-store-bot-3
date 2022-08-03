@@ -28,7 +28,7 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 🧑🏻‍💻 **Developer:** @Sk_Media_Official 
 
-👥 **Support Group:** [Jolly Tv](https://t.me/Jolly_Tv)
+👥 **Support Group:** [Jolly Tv](https://t.me/Sk_Network)
 
 📢 **Updates Channel:** [Sk Media Official](https://t.me/Sk_Media_Official)
 """
