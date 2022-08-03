@@ -45,4 +45,5 @@ Also remember that developer will Delete Adult Contents from Database. So better
 Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
 
 Send me any file I will give you a permanent Sharable Link. I Support Channel Also! Check **About Bot** Button.
+🤔 **tutorial:** [Click Here](https://telegram.me/Sk_File_Store_Free_Bot?start=SkStorefree_NDUxMTk=)
 """
