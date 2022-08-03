@@ -73,7 +73,7 @@ async def start(bot: Client, cmd: Message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Support Group", url="https://t.me/Jolly_Tv"),
+                        InlineKeyboardButton("Support Group", url="https://t.me/Sk_Network"),
                         InlineKeyboardButton("Bots Channel", url="https://t.me/Sk_Media_Official")
                     ],
                     [
@@ -318,8 +318,8 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Jolly Tv",
-                                             url="https://t.me/Jolly_Tv")
+                        InlineKeyboardButton("Sk Network",
+                                             url="https://t.me/Sk_Network")
                     ],
                     [
                         InlineKeyboardButton("Go Home", callback_data="gotohome"),
@@ -337,8 +337,8 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Jolly Tv",
-                                             url="https://t.me/Jolly_Tv")
+                        InlineKeyboardButton("Sk Network",
+                                             url="https://t.me/Sk_Network")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
@@ -356,7 +356,7 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Support Group", url="https://t.me/Jolly_Tv"),
+                        InlineKeyboardButton("Support Group", url="https://t.me/Sk_Network"),
                         InlineKeyboardButton("Bots Channel", url="https://t.me/Sk_Media_Official")
                     ],
                     [
@@ -402,7 +402,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 return
             except Exception:
                 await cmd.message.edit(
-                    text="Something went Wrong. Contact my [Support Group](https://t.me/Jolly_Tv).",
+                    text="Something went Wrong. Contact my [Support Group](https://t.me/Sk_Network).",
                     parse_mode="markdown",
                     disable_web_page_preview=True
                 )
@@ -414,7 +414,7 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Support Group", url="https://t.me/Jolly_Tv"),
+                        InlineKeyboardButton("Support Group", url="https://t.me/Sk_Network"),
                         InlineKeyboardButton("Bots Channel", url="https://t.me/Sk_Media_Official")
                     ],
                     [
